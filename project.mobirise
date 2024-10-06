@@ -46,7 +46,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -8254,168 +8254,184 @@
           "_params": {}
         },
         {
-          "_params": {
-            "autoplay": true,
-            "animType": "kenburns",
-            "theme": "boundary",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/68212-10151177577161137-1641158673-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/408021-10151177573636137-255966642-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/604121-10151177592736137-705065157-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/602379-10151177576136137-260738974-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/536338-10151177571601137-1456453073-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/533585-10151177582931137-1156795734-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/374444-10151177592816137-2030550366-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/305522-10151177584096137-1119309241-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/15278-10151177574171137-511439580-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/32413-10151177585711137-150001978-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/406849-10151177572056137-1840093161-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/533500-10151177571751137-1887607697-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/248810-10151177574386137-1846435009-n-960x640.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "overflow": "hidden",
+            "& when (@bg-type = \"color\")": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = \"image\")": {
+              "background-image": "url(@bg-value)",
+              "& when (@overlay)": {
+                ".mbr-overlay": {
+                  "background": "@overlayColor",
+                  "opacity": "@overlayOpacity"
+                }
               }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": false,
-            "responsive": "1",
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "captionsEffect": "slide",
-            "showBullets": false,
-            "bgColor": "#27232c",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1024",
-            "height": "576"
+            },
+            ".desc-wrapper": {
+              "padding": "0 120px",
+              "@media (max-width: 1440px)": {
+                "padding": "0 60px"
+              },
+              "@media (max-width: 992px)": {
+                "padding": "0"
+              },
+              ".mbr-desc": {
+                "display": "inline-flex",
+                "position": "relative",
+                "align-items": "center",
+                "margin-bottom": "60px",
+                "padding-left": "120px",
+                "@media (max-width: 992px)": {
+                  "margin-bottom": "40px",
+                  "padding-left": "60px"
+                },
+                "&::before": {
+                  "content": "''",
+                  "position": "absolute",
+                  "left": "0",
+                  "width": "90px",
+                  "height": "1px",
+                  "background-color": "@desc",
+                  "@media (max-width: 992px)": {
+                    "width": "40px"
+                  }
+                }
+              }
+            },
+            ".embla__slide": {
+              "display": "flex",
+              "justify-content": "center",
+              "position": "relative",
+              "min-width": "555px",
+              "max-width": "555px",
+              "padding-right": "1px",
+              "@media (max-width: 767px)": {
+                "min-width": "100%",
+                "max-width": "100%"
+              },
+              "&:nth-child(2n)": {
+                ".slide-content .item-wrapper .item-img img": {
+                  "height": "555px",
+                  "@media (max-width: 992px)": {
+                    "height": "350px"
+                  }
+                }
+              },
+              "&:nth-child(3n)": {
+                ".slide-content .item-wrapper .item-img img": {
+                  "height": "410px",
+                  "@media (max-width: 992px)": {
+                    "height": "350px"
+                  }
+                }
+              },
+              ".slide-content": {
+                "width": "100%",
+                ".item-wrapper": {
+                  "height": "100%",
+                  "display": "flex",
+                  "align-items": "center",
+                  ".item-img": {
+                    "width": "100%",
+                    "img": {
+                      "height": "740px",
+                      "object-fit": "cover",
+                      "@media (max-width: 992px)": {
+                        "height": "350px"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            ".embla__button--next, .embla__button--prev": {
+              "display": "flex"
+            },
+            ".embla__button": {
+              "bottom": "0",
+              "width": "80px",
+              "height": "80px",
+              "margin-top": "-1.5rem",
+              "font-size": "20px",
+              "background-color": "@warningColor !important",
+              "color": "@primaryColor !important",
+              "border": "none !important",
+              "border-radius": "100%",
+              "transition": "all 0.3s",
+              "position": "absolute",
+              "display": "flex",
+              "justify-content": "center",
+              "align-items": "center",
+              "opacity": "1 !important",
+              "& when not (@arrows)": {
+                "display": "none"
+              },
+              "& when not (@arrowsMobile)": {
+                "@media (max-width: 768px)": {
+                  "display": "none"
+                }
+              },
+              "&:hover": {
+                "opacity": ".5 !important"
+              },
+              "&.embla__button--prev": {
+                "right": "6rem",
+                ".mbr-iconfont": {
+                  "padding-right": "6px"
+                }
+              },
+              "&.embla__button--next": {
+                "right": "0",
+                ".mbr-iconfont": {
+                  "padding-left": "6px"
+                }
+              }
+            },
+            ".embla": {
+              "position": "relative",
+              "width": "100%",
+              "& when (@arrows)": {
+                "padding-bottom": "120px"
+              }
+            },
+            ".embla__viewport": {
+              "overflow": "visible",
+              "width": "100%",
+              "margin-right": "1rem"
+            },
+            ".embla__viewport.is-draggable": {
+              "cursor": "grab"
+            },
+            ".embla__viewport.is-dragging": {
+              "cursor": "grabbing"
+            },
+            ".embla__container": {
+              "display": "flex",
+              "user-select": "none",
+              "-webkit-touch-callout": "none",
+              "-khtml-user-select": "none",
+              "-webkit-tap-highlight-color": "transparent"
+            },
+            ".mbr-desc": {
+              "color": "#254b45"
+            },
+            ".mbr-desc, .desc-wrapper": {
+              "color": "#8ec3b3"
+            }
           },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
+          "_name": "slider02",
           "_sourceTheme": "modelm5",
-          "_anchor": "wowslider-t"
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"slider02 mbr-embla modelm5\" group=\"Sliders & Galleries\" plugins=\"embla\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Description\" name=\"showDesc\" checked>\n        <input type=\"color\" title=\"Description Line Color\" value=\"#ffffff\" name=\"desc\" condition=\"showDesc\" selected>\n        <header>Carousel</header>\n        <input type=\"checkbox\" title=\"Autoplay\" name=\"autoplay\">\n        <input type=\"range\" title=\"Interval\" name=\"interval\" min=\"1\" max=\"10\" value=\"5\" step=\"1\" condition=\"autoplay\">\n        <input type=\"checkbox\" title=\"Loop\" name=\"loop\" checked>\n        <input type=\"checkbox\" title=\"Draggable\" name=\"draggable\" checked>\n        <input type=\"checkbox\" name=\"arrows\" title=\"Arrows\" checked>\n        <input type=\"checkbox\" name=\"arrowsMobile\" title=\"Mobile Arrows\" condition=\"arrows\">\n        <header>Cards</header>\n        <input type=\"range\" name=\"gap\" title=\"Gap\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax required>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#27232c\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type == 'image'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type == 'image'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"desc-wrapper\">\n                    <p class=\"mbr-desc mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showDesc\" data-app-selector=\".mbr-desc, .desc-wrapper\">\n                        <b>Jerusalem</b>\n                    </p>\n                </div>\n                <div class=\"embla\" data-loop=\"{{loop}}\" data-auto-play=\"{{autoplay}}\" data-auto-play-interval=\"{{interval}}\" data-draggable=\"{{draggable}}\" data-skip-snaps=\"true\" data-align=\"center\" data-contain-scroll=\"trimSnaps\">\n                    <div class=\"embla__viewport\">\n                        <div class=\"embla__container\">\n                            \n                            \n                            \n                            \n                            \n                            <div class=\"embla__slide slider-image item active\" mbr-style=\"{'margin-left': gap + 'rem', 'margin-right': gap + 'rem'}\">\n                                <div class=\"slide-content\">\n                                    <div class=\"item-wrapper\">\n                                        <div class=\"item-img\">\n                                            <img src=\"@PROJECT_PATH@/assets/images/536338-10151177571601137-1456453073-n-960x640.jpg\" alt=\"Mobirise Website Builder\" data-slide-to=\"1\" data-bs-slide-to=\"2\">\n                                        </div>\n                                    </div>\n                                </div>\n                            </div><div class=\"embla__slide slider-image item\" mbr-style=\"{'margin-left': gap + 'rem', 'margin-right': gap + 'rem'}\">\n                                <div class=\"slide-content\">\n                                    <div class=\"item-wrapper\">\n                                        <div class=\"item-img\">\n                                            <img src=\"@PROJECT_PATH@/assets/images/305522-10151177584096137-1119309241-n-960x640.jpg\" alt=\"Mobirise Website Builder\" data-slide-to=\"2\" data-bs-slide-to=\"3\">\n                                        </div>\n                                    </div>\n                                </div>\n                            </div><div class=\"embla__slide slider-image item\" mbr-style=\"{'margin-left': gap + 'rem', 'margin-right': gap + 'rem'}\">\n                                <div class=\"slide-content\">\n                                    <div class=\"item-wrapper\">\n                                        <div class=\"item-img\">\n                                            <img src=\"@PROJECT_PATH@/assets/images/533500-10151177571751137-1887607697-n-960x640.jpg\" alt=\"Mobirise Website Builder\" data-slide-to=\"3\" data-bs-slide-to=\"4\">\n                                        </div>\n                                    </div>\n                                </div>\n                            </div><div class=\"embla__slide slider-image item\" mbr-style=\"{'margin-left': gap + 'rem', 'margin-right': gap + 'rem'}\">\n                                <div class=\"slide-content\">\n                                    <div class=\"item-wrapper\">\n                                        <div class=\"item-img\">\n                                            <img src=\"@PROJECT_PATH@/assets/images/32413-10151177585711137-150001978-n-960x640.jpg\" alt=\"Mobirise Website Builder\" data-slide-to=\"4\" data-bs-slide-to=\"5\">\n                                        </div>\n                                    </div>\n                                </div>\n                            </div><div class=\"embla__slide slider-image item\" mbr-style=\"{'margin-left': gap + 'rem', 'margin-right': gap + 'rem'}\">\n                                <div class=\"slide-content\">\n                                    <div class=\"item-wrapper\">\n                                        <div class=\"item-img\">\n                                            <img src=\"@PROJECT_PATH@/assets/images/602379-10151177576136137-260738974-n-960x640.jpg\" alt=\"Mobirise Website Builder\" data-slide-to=\"5\" data-bs-slide-to=\"6\">\n                                        </div>\n                                    </div>\n                                </div>\n                            </div><div class=\"embla__slide slider-image item\" mbr-style=\"{'margin-left': gap + 'rem', 'margin-right': gap + 'rem'}\">\n                                <div class=\"slide-content\">\n                                    <div class=\"item-wrapper\">\n                                        <div class=\"item-img\">\n                                            <img src=\"@PROJECT_PATH@/assets/images/604121-10151177592736137-705065157-n-960x640.jpg\" alt=\"Mobirise Website Builder\" data-slide-to=\"5\" data-bs-slide-to=\"6\">\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <button class=\"embla__button embla__button--prev\">\n                        <span class=\"mobi-mbri mobi-mbri-arrow-prev mbr-iconfont\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only visually-hidden visually-hidden visually-hidden\">Previous</span>\n                    </button>\n                    <button class=\"embla__button embla__button--next\">\n                        <span class=\"mobi-mbri mobi-mbri-arrow-next mbr-iconfont\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only visually-hidden visually-hidden visually-hidden\">Next</span>\n                    </button>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "uqrM23Pr3t",
+          "_anchor": "slider02-u",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         },
         {
           "alias": false,
