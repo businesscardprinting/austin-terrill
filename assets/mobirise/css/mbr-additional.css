@@ -3877,7 +3877,7 @@ img {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/business-hero-still-1920x1080.jpg");
 }
 @media (max-width: 992px) {
   .cid-uqgrpjszdB .container {
@@ -3916,6 +3916,327 @@ img {
 }
 .cid-uqgrpjszdB .mbr-text {
   color: #ffffff;
+}
+.cid-uqECNmpN2d {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #27232c;
+  overflow: hidden;
+}
+.cid-uqECNmpN2d .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uqECNmpN2d .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-uqECNmpN2d .container {
+    padding: 0 30px;
+  }
+}
+.cid-uqECNmpN2d .card {
+  justify-content: center;
+}
+.cid-uqECNmpN2d .image-wrapper {
+  position: relative;
+  height: 840px;
+}
+@media (max-width: 992px) {
+  .cid-uqECNmpN2d .image-wrapper {
+    height: 350px;
+    margin-bottom: 40px;
+  }
+}
+.cid-uqECNmpN2d .image-wrapper img {
+  position: absolute;
+  height: 100%;
+  width: 550px;
+  top: 4rem;
+  right: 2rem;
+  object-fit: cover;
+}
+@media (max-width: 992px) {
+  .cid-uqECNmpN2d .image-wrapper img {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+.cid-uqECNmpN2d .image-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 4rem;
+  right: 2rem;
+  width: 118px;
+  height: 118px;
+  background-image: linear-gradient(45deg, #71eac6 50%, #27232c 50%);
+  z-index: 1;
+}
+@media (max-width: 992px) {
+  .cid-uqECNmpN2d .image-wrapper::before {
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+  }
+}
+.cid-uqECNmpN2d .image-wrapper a {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.cid-uqECNmpN2d .content-wrapper {
+  padding: 0 120px 0 88px;
+}
+@media (max-width: 1440px) {
+  .cid-uqECNmpN2d .content-wrapper {
+    padding: 0 60px 0 28px;
+  }
+}
+@media (max-width: 992px) {
+  .cid-uqECNmpN2d .content-wrapper {
+    padding: 0;
+  }
+}
+.cid-uqECNmpN2d .content-wrapper .desc-wrapper .mbr-desc {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+  margin-bottom: 60px;
+  padding-left: 120px;
+}
+@media (max-width: 992px) {
+  .cid-uqECNmpN2d .content-wrapper .desc-wrapper .mbr-desc {
+    margin-bottom: 40px;
+    padding-left: 60px;
+  }
+}
+.cid-uqECNmpN2d .content-wrapper .desc-wrapper .mbr-desc::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  width: 90px;
+  height: 1px;
+  background-color: #bee0d6;
+}
+@media (max-width: 992px) {
+  .cid-uqECNmpN2d .content-wrapper .desc-wrapper .mbr-desc::before {
+    width: 40px;
+  }
+}
+.cid-uqECNmpN2d .content-wrapper .mbr-text {
+  margin-bottom: 60px;
+}
+@media (max-width: 992px) {
+  .cid-uqECNmpN2d .content-wrapper .mbr-text {
+    margin-bottom: 40px;
+  }
+}
+.cid-uqECNmpN2d .content-wrapper .last-text {
+  margin-top: 420px;
+  margin-bottom: 0;
+}
+@media (max-width: 1200px) {
+  .cid-uqECNmpN2d .content-wrapper .last-text {
+    margin-top: 210px;
+  }
+}
+@media (max-width: 992px) {
+  .cid-uqECNmpN2d .content-wrapper .last-text {
+    margin: 0;
+  }
+}
+.cid-uqECNmpN2d .mbr-desc {
+  color: #bee0d6;
+}
+.cid-uqECNmpN2d .mbr-text {
+  color: #bee0d6;
+}
+.cid-uqED2VhgOO {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #27232c;
+  overflow: hidden;
+}
+.cid-uqED2VhgOO .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uqED2VhgOO .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-uqED2VhgOO .container {
+    padding: 0 30px;
+  }
+}
+.cid-uqED2VhgOO .card {
+  justify-content: center;
+}
+.cid-uqED2VhgOO .items-wrapper {
+  padding: 0 0 0 120px;
+}
+@media (max-width: 1440px) {
+  .cid-uqED2VhgOO .items-wrapper {
+    padding: 0 0 0 60px;
+  }
+}
+@media (max-width: 992px) {
+  .cid-uqED2VhgOO .items-wrapper {
+    padding: 0;
+  }
+}
+@media (max-width: 992px) {
+  .cid-uqED2VhgOO .items-wrapper .item {
+    margin-bottom: 80px;
+  }
+  .cid-uqED2VhgOO .items-wrapper .item:last-child {
+    margin-bottom: 0;
+  }
+}
+.cid-uqED2VhgOO .items-wrapper .item:hover .item-wrapper .item-img img,
+.cid-uqED2VhgOO .items-wrapper .item:focus .item-wrapper .item-img img {
+  transform: scale(1.1);
+}
+.cid-uqED2VhgOO .items-wrapper .item:hover .item-wrapper .item-img .mbr-iconfont,
+.cid-uqED2VhgOO .items-wrapper .item:focus .item-wrapper .item-img .mbr-iconfont {
+  opacity: 1;
+}
+.cid-uqED2VhgOO .items-wrapper .item:hover .item-wrapper .item-content::before,
+.cid-uqED2VhgOO .items-wrapper .item:focus .item-wrapper .item-content::before,
+.cid-uqED2VhgOO .items-wrapper .item:hover .item-wrapper .item-content::after,
+.cid-uqED2VhgOO .items-wrapper .item:focus .item-wrapper .item-content::after {
+  opacity: 1;
+}
+.cid-uqED2VhgOO .items-wrapper .item:hover .item-wrapper .item-content .item-title,
+.cid-uqED2VhgOO .items-wrapper .item:focus .item-wrapper .item-content .item-title {
+  color: #ffffff;
+}
+.cid-uqED2VhgOO .items-wrapper .item:hover .item-wrapper .item-content .item-text,
+.cid-uqED2VhgOO .items-wrapper .item:focus .item-wrapper .item-content .item-text {
+  color: #ffffff;
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+@media (max-width: 992px) {
+  .cid-uqED2VhgOO .items-wrapper .item .item-wrapper {
+    display: block;
+  }
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-content {
+  width: 33%;
+  position: relative;
+  padding-top: 100px;
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-content::before {
+  content: '';
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 20px;
+  height: 6px;
+  background-color: #bee0d6;
+  opacity: .2;
+  transition: all 0.3s ease-in-out;
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-content::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #bee0d6;
+  opacity: .2;
+  transition: all 0.3s ease-in-out;
+}
+@media (max-width: 992px) {
+  .cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-content {
+    width: 100%;
+    padding-top: 40px;
+    margin-bottom: 80px;
+  }
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-content .item-title {
+  margin-bottom: 50px;
+  transition: all 0.3s ease-in-out;
+}
+@media (max-width: 992px) {
+  .cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-content .item-title {
+    margin-bottom: 40px;
+  }
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-content .item-text {
+  margin-bottom: 40px;
+  transition: all 0.3s ease-in-out;
+}
+@media (max-width: 992px) {
+  .cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-content .item-text {
+    margin-bottom: 0;
+  }
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-img {
+  width: 54%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+@media (max-width: 992px) {
+  .cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-img {
+    width: 100%;
+  }
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-img img {
+  height: 760px;
+  object-fit: cover;
+  transition: all 0.5s ease-in-out;
+}
+@media (max-width: 992px) {
+  .cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-img img {
+    height: 350px;
+  }
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-img .mbr-iconfont {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #71eac6;
+  color: #254b45;
+  font-size: 20px;
+  transform: rotate(45deg);
+  border-radius: 100%;
+  transition: all 0.3s ease-in-out;
+  opacity: 0;
+}
+.cid-uqED2VhgOO .items-wrapper .item .item-wrapper .item-img a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.cid-uqED2VhgOO .item-title {
+  color: #bee0d6;
+}
+.cid-uqED2VhgOO .item-text {
+  color: #bee0d6;
 }
 .cid-u3FZqqwm1n {
   padding-top: 5rem;
@@ -4749,7 +5070,7 @@ img {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/music-still-hero-1920x1080.jpg");
 }
 @media (max-width: 992px) {
   .cid-uqgC2xuW1E .container {
@@ -4998,6 +5319,148 @@ img {
   color: #bee0d6;
 }
 .cid-uqgFBfAWmS .list {
+  color: #bee0d6;
+}
+.cid-uqEE6pk9Xu {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #27232c;
+  overflow: hidden;
+}
+.cid-uqEE6pk9Xu .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uqEE6pk9Xu .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-uqEE6pk9Xu .container {
+    padding: 0 30px;
+  }
+}
+.cid-uqEE6pk9Xu .card {
+  justify-content: center;
+}
+.cid-uqEE6pk9Xu .image-wrapper {
+  position: relative;
+  height: 840px;
+}
+@media (max-width: 992px) {
+  .cid-uqEE6pk9Xu .image-wrapper {
+    height: 350px;
+    margin-bottom: 40px;
+  }
+}
+.cid-uqEE6pk9Xu .image-wrapper img {
+  position: absolute;
+  height: 100%;
+  width: 550px;
+  top: 4rem;
+  right: 2rem;
+  object-fit: cover;
+}
+@media (max-width: 992px) {
+  .cid-uqEE6pk9Xu .image-wrapper img {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+.cid-uqEE6pk9Xu .image-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 4rem;
+  right: 2rem;
+  width: 118px;
+  height: 118px;
+  background-image: linear-gradient(45deg, #71eac6 50%, #27232c 50%);
+  z-index: 1;
+}
+@media (max-width: 992px) {
+  .cid-uqEE6pk9Xu .image-wrapper::before {
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+  }
+}
+.cid-uqEE6pk9Xu .image-wrapper a {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.cid-uqEE6pk9Xu .content-wrapper {
+  padding: 0 120px 0 88px;
+}
+@media (max-width: 1440px) {
+  .cid-uqEE6pk9Xu .content-wrapper {
+    padding: 0 60px 0 28px;
+  }
+}
+@media (max-width: 992px) {
+  .cid-uqEE6pk9Xu .content-wrapper {
+    padding: 0;
+  }
+}
+.cid-uqEE6pk9Xu .content-wrapper .desc-wrapper .mbr-desc {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+  margin-bottom: 60px;
+  padding-left: 120px;
+}
+@media (max-width: 992px) {
+  .cid-uqEE6pk9Xu .content-wrapper .desc-wrapper .mbr-desc {
+    margin-bottom: 40px;
+    padding-left: 60px;
+  }
+}
+.cid-uqEE6pk9Xu .content-wrapper .desc-wrapper .mbr-desc::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  width: 90px;
+  height: 1px;
+  background-color: #bee0d6;
+}
+@media (max-width: 992px) {
+  .cid-uqEE6pk9Xu .content-wrapper .desc-wrapper .mbr-desc::before {
+    width: 40px;
+  }
+}
+.cid-uqEE6pk9Xu .content-wrapper .mbr-text {
+  margin-bottom: 60px;
+}
+@media (max-width: 992px) {
+  .cid-uqEE6pk9Xu .content-wrapper .mbr-text {
+    margin-bottom: 40px;
+  }
+}
+.cid-uqEE6pk9Xu .content-wrapper .last-text {
+  margin-top: 420px;
+  margin-bottom: 0;
+}
+@media (max-width: 1200px) {
+  .cid-uqEE6pk9Xu .content-wrapper .last-text {
+    margin-top: 210px;
+  }
+}
+@media (max-width: 992px) {
+  .cid-uqEE6pk9Xu .content-wrapper .last-text {
+    margin: 0;
+  }
+}
+.cid-uqEE6pk9Xu .mbr-desc {
+  color: #bee0d6;
+}
+.cid-uqEE6pk9Xu .mbr-text {
   color: #bee0d6;
 }
 .cid-u3FZqqwm1n {
@@ -6660,7 +7123,7 @@ img {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/design-still-hero-1920x1080.jpg");
 }
 @media (max-width: 992px) {
   .cid-uqjVW7Yje4 .container {
@@ -8036,7 +8499,7 @@ img {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/photography-still-hero-1920x1080.jpg");
 }
 @media (max-width: 992px) {
   .cid-uqneR5dL9m .container {
