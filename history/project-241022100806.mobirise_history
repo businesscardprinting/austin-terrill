@@ -1471,8 +1471,7 @@
     "photography.html": {
       "settings": {
         "title": "Photography",
-        "order": "5",
-        "password_protect_password": "0220"
+        "order": "5"
       },
       "components": [
         {
