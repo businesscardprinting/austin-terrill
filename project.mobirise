@@ -56,14 +56,17 @@
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/austin-terrill-icon-white.svg",
-    "mbrsiteDomain": "samfkpsvsi",
+    "mbrsiteDomain": "lspvmfwqp8",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "global_header_custom": "<!-- Elfsight WhatsApp Chat | austinterrill.com -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-dbd29a86-b9f1-434e-ac83-75e7940a5ab2\" data-elfsight-app-lazy></div>",
+    "cssOptimize": false,
+    "lazyLoad": false
   },
   "pages": {
     "index.html": {
